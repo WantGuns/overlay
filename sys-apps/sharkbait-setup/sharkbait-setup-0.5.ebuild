@@ -5,7 +5,7 @@ EAPI=6
 
 DESCRIPTION="First setup for SharkBait systems"
 HOMEPAGE="https://github.com/WantGuns/setup"
-SRC_URI="https://github.com/WantGuns/setup/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+SRC_URI="https://github.com/WantGuns/setup/archive/master.tar.gz -> ${P}.tar.gz"
 
 LICENSE="GPL-3"
 SLOT="0"
